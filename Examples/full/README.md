@@ -1,6 +1,6 @@
 # Full Example - Production Agent
 
-This is a complete production-ready T-BUG OS setup with all features.
+This is a complete production-ready Resonix - Skill setup with all features.
 
 ## Files Needed
 
